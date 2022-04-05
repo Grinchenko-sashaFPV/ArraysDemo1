@@ -1,0 +1,15 @@
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.exe.config
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.exe
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.pdb
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.csprojAssemblyReference.cache
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.csproj.CoreCompileInputs.cache
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.exe
+F:\GitHub\ProductC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.pdb
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.exe.config
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.exe
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\bin\Debug\ArraysDemo1.pdb
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.csproj.AssemblyReference.cache
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.csproj.CoreCompileInputs.cache
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.exe
+D:\GitHub\ProjectsC#\ArraysDemo1\ArraysDemo1\obj\Debug\ArraysDemo1.pdb
